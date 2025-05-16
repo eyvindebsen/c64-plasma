@@ -1,5 +1,6 @@
 # c64-plasma
-Precalculate "plasma" data from C64 basic, to display in fast ASM
+Precalculate "plasma" data from C64 basic, to display in fast ASM.
+Thanks to Josip Retro Bits for inspiration.
 
 This was made for CBM studio.
 Open the BASIC program "josippplasma2.bas" to create plasma data.
